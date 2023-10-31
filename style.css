@@ -1,0 +1,33 @@
+/* Apply styles to all headers in the body */
+body h1, body h2, body h3, body h4, body h5, body h6 {
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+/* Style each header individually */
+h1 {
+    font-size: 36px; /* Largest font size */
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    font-size: 14px;
+}
+
+h6 {
+    font-size: 12px; /* Smallest font size */
+}
